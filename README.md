@@ -8,6 +8,6 @@ measure the recipe.
 adjust the quntity.
 delete the recipe.
 add another recipe of your choice
-exit the program
+exit the program.
 test various features
 ensure the application behaves as expected.
