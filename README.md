@@ -3,7 +3,7 @@ Go to the console program.
 The code is in the program.cs file.
 use the code to check the recipe.
 follow instructions to add ingredients.
-Follow the steps of the recipe
+Follow the steps of the recipe.
 measure the recipe
 adjust the quntity
 delete the recipe
