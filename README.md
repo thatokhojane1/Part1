@@ -1,4 +1,4 @@
-Open Visual Studio
+Open Visual Studio.
 Go to the console program
 The code is in the program.cs file
 use the code to check the recipe
