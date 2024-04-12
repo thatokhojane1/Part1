@@ -5,7 +5,7 @@ use the code to check the recipe.
 follow instructions to add ingredients.
 Follow the steps of the recipe.
 measure the recipe
-adjust the quntity
+adjust the quntity.
 delete the recipe
 add another recipe of your choice
 exit the program
