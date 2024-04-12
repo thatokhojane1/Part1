@@ -1,5 +1,5 @@
 Open Visual Studio.
-Go to the console program
+Go to the console program.
 The code is in the program.cs file
 use the code to check the recipe
 follow instructions to add ingredients
