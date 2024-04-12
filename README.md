@@ -10,4 +10,4 @@ delete the recipe
 add another recipe of your choice
 exit the program
 test various features
-ensure the application behaves as expected
+ensure the application behaves as expected.
